@@ -1,4 +1,4 @@
-#Adventure Works Data Visualization
+**Adventure Works Data Visualization**
 
 **Objective:**
 
@@ -36,6 +36,10 @@ In Data Modeling there are 2 types.
  
 So I select Star scheme for my project.
 Here My Fact Table is Fact Internet Sale dataset.
+
+**Data Visualization:**
+
+Created Power BI reports on analysis of customer behaviour, product trends and sales performance.
 
 **Recommendations for Business Improvement:**
 
