@@ -1,4 +1,4 @@
-**Adventure Works Data Visualization**
+Adventure Works Data Visualization
 
 **Objective:**
 
