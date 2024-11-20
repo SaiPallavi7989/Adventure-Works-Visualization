@@ -4,19 +4,19 @@
 
 To Develop a comprehensive Power BI & Tableau dashboard that highlights key insights into sales performance, customer behavior, and product trends for the company.
 
-**Columns:**
+**Data Preparation:**
 
 Fact Internet Sales Dataset contains:
 Product key, Customer key, Orderdatekey, duedatakey, Shipdatekey, Sales Order Number, SalesAmount
 
-DIM-Products Dataset contains:
+DIM_Products Dataset contains:
 Productkey, Product ItemCode, Product name, Subcategory, Product Category, Color, Size, Model Name, Product States.
 
-DIM-Customer Dataset Contains:
-Customerkey, Full Name, First Name & Last Name, Gender, Datefirst Puechere, Customer City
+DIM_Customer Dataset Contains:
+Customerkey, Full Name, First Name & Last Name, Gender, Datefirst Purchase, Customer City
 
-DIM-Date-Excel Dataset contains:
-Date key, Date, Day, WeekNumba, Month, Month Shot, Month Number, Quarter, Year.
+DIM_Date_Excel Dataset contains:
+Date key, Date, Day, WeekNumber, Month, Month Short, Month Number, Quarter, Year.
 
 **Data Cleaning:**
 
