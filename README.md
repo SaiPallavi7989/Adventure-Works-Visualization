@@ -34,7 +34,7 @@ In Data Modeling there are 2 types.
    
 2. Star scheme: In Star Schema, Fact table surrounded by dimension tables. It is simple & easier to understand.
  
-So I select Star scheme for my project.
+I selected Star scheme for this project.
 Here My Fact Table is Fact Internet Sale dataset.
 
 **Data Visualization:**
